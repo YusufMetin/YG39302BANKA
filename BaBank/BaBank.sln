@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaBank", "BaBank\BaBank.csproj", "{5FE65226-0796-4567-8A90-87EEE432FBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ba.CustomControls", "Ba.CustomControls\Ba.CustomControls.csproj", "{F23C3896-5E8F-467D-86AC-A4FA6B4446D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaBank.Dto", "BaBank.Dto\BaBank.Dto.csproj", "{B13936D4-DB3C-4876-8098-7EAA8140DDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE65226-0796-4567-8A90-87EEE432FBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE65226-0796-4567-8A90-87EEE432FBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE65226-0796-4567-8A90-87EEE432FBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE65226-0796-4567-8A90-87EEE432FBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23C3896-5E8F-467D-86AC-A4FA6B4446D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23C3896-5E8F-467D-86AC-A4FA6B4446D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23C3896-5E8F-467D-86AC-A4FA6B4446D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23C3896-5E8F-467D-86AC-A4FA6B4446D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13936D4-DB3C-4876-8098-7EAA8140DDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13936D4-DB3C-4876-8098-7EAA8140DDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13936D4-DB3C-4876-8098-7EAA8140DDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13936D4-DB3C-4876-8098-7EAA8140DDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
